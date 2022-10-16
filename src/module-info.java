@@ -1,0 +1,3 @@
+module JunitPractice {
+	requires junit;
+}
